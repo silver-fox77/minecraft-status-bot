@@ -3,17 +3,17 @@
         "presence": {
             "status": "online",
             "activities": [{
-                "name": "Hypixel Server",
+                "name": "The Minecraft Server",
                 "type": "WATCHING"
             }]
         }
     },
     "minecraft": {
         "servers": [{
-            "name": "Hypixel",
-            "ip": "hypixel.net",
+            "name": "The SMP",
+            "ip": "38.130.121.44",
             "port": 25565,
-            "channelId": "1361757965014798526",
+            "channelId": "1455304379484868873",
             "messageId": "1361782035923992848",
             "updateInterval": 30000,
             "display": {
